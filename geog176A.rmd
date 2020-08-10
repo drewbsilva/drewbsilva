@@ -1,0 +1,12 @@
+---
+title: "Projects"
+---
+
+In the summer of 2020 I took a class GIS course based in R. I learned the basics of coding and data science. A collection of my works can be found below.
+
+## [Building a project website]()
+
+- In this assignment we built a static users site with Github pages
+- Includes a github repo for access to all the code
+- I was able to create a website through coding for the first time and learn how to create directory for a website
+- Learned how to add photo through code

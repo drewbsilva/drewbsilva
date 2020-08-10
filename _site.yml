@@ -1,0 +1,20 @@
+name: "first-website"
+output_dir: "."
+navbar:
+  title: "My First Website Creation"
+  left:
+    - text: "Home"
+      icon: fa-campground
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-globe
+      href: geog176.html
+    - text: "CV"
+      icon: fa-address-card
+      href: cv.html
+  right:
+   - icon: fa-github
+     href: https://github.com/drewbsilva
+output:
+  html_document:
+    theme: cosmo

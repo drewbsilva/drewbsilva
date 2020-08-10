@@ -1,0 +1,23 @@
+---
+title: "Drew Silva"
+output: html_document
+---
+
+<center>
+# Education
+</center>
+
+## University of California Santa Barbara
+Graduating year: 2021
+Majoring in Anthropology B.A. and Geography B.A.
+  Minor is Applied Psychology
+
+  Relevant Courses: PsychoPathology, Intro to Help Skills, Positive Psychology (in progress), Intro to GiS (in progress)
+
+## Santa Barbara City College (2019-2020)
+  Relevant courses: Weather and Climate, Physical Geography, Positive Psychology
+
+## Santa Ana College (2015-2017)
+  Associate in Arts for Transfer in Psychology
+
+  Relevant courses: Child Development, Research Methods in Psychology, 
