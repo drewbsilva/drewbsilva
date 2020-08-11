@@ -11,10 +11,10 @@ navbar:
       href: geog176A.html
     - text: "CV"
       icon: fa-address-card
-      href: drewsilva.html
+      href: CV.html
   right:
-   - icon: fa-github
-     href: https://github.com/drewbsilva
+    - icon: fa-github
+      href: https://github.com/drewbsilva
 output:
   html_document:
-    theme: cyborg
+    theme: yeti
