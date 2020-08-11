@@ -8,7 +8,7 @@ output: html_document
 </center>
 
 ## University of California Santa Barbara
-Graduating year: 2021
+2017-2021
 Majoring in Anthropology B.A. and Geography B.A.
   Minor is Applied Psychology
 

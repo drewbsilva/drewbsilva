@@ -4,17 +4,17 @@ navbar:
   title: "My First Website Creation"
   left:
     - text: "Home"
-      icon: fa-campground
+      icon: fa-home
       href: index.html
     - text: "GIS Work"
       icon: fa-globe
-      href: geog176.html
+      href: geog176A.html
     - text: "CV"
       icon: fa-address-card
-      href: cv.html
+      href: drewsilva.html
   right:
    - icon: fa-github
      href: https://github.com/drewbsilva
 output:
   html_document:
-    theme: cosmo
+    theme: cyborg
